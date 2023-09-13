@@ -1,0 +1,30 @@
+.entry {
+    text-align: center;
+    height: auto;
+    width: auto;
+    padding: 2px;
+    margin: 2.5px;
+    font-size: medium;
+    width: 120px;
+}
+
+.table{
+    width: 65px;
+    height: 45px;
+    text-align: center;
+    padding: 10px;
+}
+.table1{
+    width: 100px;
+    height: 45px;
+    text-align: left;
+    padding: 4px;
+}
+.mainB{
+    border-color: black;
+    width: 100px;
+    height: 55px;
+    text-align: center;
+    font-size: x-large;
+    padding: 8px;
+}
